@@ -7,8 +7,6 @@
  # Console
  ![](images/02-Console.png)
  
- # Console
- 
  # Arguments
  ![](images/03-Arguments.png)
  
